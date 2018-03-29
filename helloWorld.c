@@ -1,5 +1,6 @@
 #include <stdlib>
 
 void main() {
-	printf("Hellow World!");
+	println("Hello you!");
+	println("How are you?");
 }
